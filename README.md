@@ -1,6 +1,6 @@
 # <p align=center>👋 Hi, I’m Amanda</p>
 
-I have skills in front-end developement and web desgin
+I am a front-end developer with desgin skills.
 
 ## 🤯 Skills
 
