@@ -2,7 +2,7 @@
 
 I am a front-end developer with design skills.
 
-## 🤯 Skills
+## Skills
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@ I am a front-end developer with design skills.
 ![quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 💻 Softwares
+## Softwares
 
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
@@ -23,7 +23,7 @@ I am a front-end developer with design skills.
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📫 Contact me
+## Contact me
 
 - amanda.srisourath@gmail.com
 - [Linkedin](https://www.linkedin.com/in/a-srisourath/)
