@@ -1,4 +1,4 @@
-# <p align=center>Hi, I’m Amanda</p>
+# <p align=center>🙋🏻‍♀️ Hi, I’m Amanda</p>
 
 I am a front-end developer with design skills.
 
